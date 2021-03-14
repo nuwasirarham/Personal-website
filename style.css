@@ -385,7 +385,7 @@ table{
 .ProjectsItemGpItem{
     width:50%;
     display:inline-block;
-    float:left;
+    float: center;
 }
 .ProjectItem{
     width:80%;
