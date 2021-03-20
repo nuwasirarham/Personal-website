@@ -70,16 +70,15 @@ p{
 /* ======================== */
 #ExperiencesId{
     /* background-color: #FBD786; */
-    background-color: #f1e4c89e;
+    background-color: #f3ead59e;
     padding-top: 50px;
     overflow:hidden;
 }
 
 #ProjectsId{
-    background-color: #f1e4c89e;
+    background-color: #f3ead59e;
     padding-top: 50px;
     overflow:hidden;
-    position: relative;
 }
 
  #AbilitiesId, #ProfileId{
@@ -385,7 +384,7 @@ table{
 .ProjectsItemGpItem{
     width:50%;
     display:inline-block;
-    float: center;
+    float: left;
 }
 .ProjectItem{
     width:80%;
